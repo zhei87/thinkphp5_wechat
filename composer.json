@@ -1,15 +1,15 @@
 {
-    "name": "hooklife/thinkphp5-wechat",
+    "name": "strongWei/thinkphp5-wechat",
     "description": "微信 SDK for thinkphp5, 基于 overtrue/wechat",
     "keywords": ["wechat", "weixin","thinkphp5"],
     "authors": [
         {
-            "name": "hooklife",
-            "email": "miaogaopeng123@gmail.com"
+            "name": "strongWei",
+            "email": "313005123@qq.com"
         }
     ],
     "require": {
-        "overtrue/wechat": "~3.0"
+        "overtrue/wechat": "~4.0 -vvv"
     },
     "autoload": {
         "psr-4": {
